@@ -24,7 +24,7 @@ It implements a simple, configurable workflow (state-machine) API that allows cl
 Clone this repository and run the project using the .NET CLI.
 
 ```bash
-git clone https://github.com/usoshidey/Infonetica_Assignment-Task
+git clone https://github.com/usoshidey/Infonetica_Assignment-Task.git
 cd InfoneticaWorkflow
 dotnet run
 ````
